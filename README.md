@@ -1,16 +1,9 @@
 # world_time
 
-A new Flutter project.
+A World time App buld using Flutter.
+In this App we can choose a Country as location for which weneed to find the current time.
+It uses a World Time API to fetch the current time for a particular location.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
